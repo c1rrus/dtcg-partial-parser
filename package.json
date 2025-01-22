@@ -38,7 +38,7 @@
     "@vitest/coverage-v8": "^2.1.6",
     "del-cli": "^6.0.0",
     "typescript": "^5.7.2",
-    "vitest": "^2.1.6"
+    "vitest": "^3.0.3"
   },
   "dependencies": {
     "@udt/parser-utils": "^0.3.0"
